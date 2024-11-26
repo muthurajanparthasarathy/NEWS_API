@@ -9,7 +9,7 @@ const app = express();
 
 
 const API_URL = "http://api.mediastack.com/v1/news"
-const apikey = 'd4ca817bf21a718239c33c577012aa22';
+const apikey = 'XXXXXXXXXXXXXXXXXXXXXX';
 
 app.get("/", async (req, res) => {
 
